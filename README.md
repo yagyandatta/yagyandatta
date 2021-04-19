@@ -47,7 +47,7 @@ I'm a 20-year-old developer, who loves open source. I'm currently pursuing my ba
 
 
 
-## Overview
+## Stats
 
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yagyandatta&show_icons=true&include_all_commits=true&theme=radical" alt="Yagyandatta's github stats" />
@@ -58,9 +58,70 @@ I'm a 20-year-old developer, who loves open source. I'm currently pursuing my ba
 </a>
 
 ###
+<br />
 
 
 
+
+
+
+
+<!--My Learning-->
+
+## Overview
+
+<b>
+<table><tr><td valign="top" width="33%">
+
+### DEVOPS
+<!-- recent_releases starts -->
+
+[Automating-Hadoop-Using-Ansible](https://github.com/yagyandatta/Automating-Hadoop-Using-Ansible)
+
+[docker_with_ansible](https://github.com/yagyandatta/docker_with_ansible)
+
+[WordPress_on_AWS_with_RDS](https://github.com/yagyandatta/WordPress_on_AWS_with_RDS)
+
+</td><td valign="top" width="25%"> 
+ 
+### FLUTTER
+<!-- recent_releases starts -->
+ [MediaPlayer-App](https://github.com/yagyandatta/MediaPlayer-App)
+ [Animation-App](https://github.com/yagyandatta/Animation-App)
+ [LinuxApp](https://github.com/yagyandatta/LinuxApp)
+ [chatApp](https://github.com/yagyandatta/chatApp)
+ 
+</td><td valign="top" width="30%"> 
+
+### PYTHON
+<!-- blog starts -->
+
+[cmdBot](https://github.com/yagyandatta/cmdBot)
+
+
+</td><td valign="top" width="50%">
+
+### BLOG
+<!-- tils starts -->
+[What is Big Data? What Issues Companies Are Facing and how it can be Resolved Using Big Data](https://yagyandattamurmu.medium.com/what-is-big-data-what-issues-companies-are-facing-and-how-it-can-be-resolved-using-big-data-76b3447d85a1)
+
+[Case study on Adobe !!](https://yagyandattamurmu.medium.com/case-study-on-adobe-a4c84ac325dd) 
+
+[Creating Key Pair, Security Group , EBS Volume and Attach them to AWS Instance using AWS-CLI](https://yagyandattamurmu.medium.com/creating-key-pair-security-group-ebs-volume-and-attach-them-to-aws-instance-using-aws-cli-8cd8472672e9)
+
+[A case study on Google Translate with Machine Learning](https://yagyandattamurmu.medium.com/a-case-study-on-google-translate-with-machine-learning-d6e2e0a8a47c)
+
+</td></tr></table> </b>
+
+## Medium Published articles
+
+[![Yagyandatta's Medium](https://github-readme-medium.vercel.app/?username=yagyandatta)](https://yagyandattamurmu.medium.com/)
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
 
 
 
