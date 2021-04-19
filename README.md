@@ -31,7 +31,7 @@
 
 
 [GitHub]: https://github.com/yagyandatta
-[instagram]: https://instagram.com/unos_0923c
+[instagram]: https://instagram.com/unos_0923
 [linkedin]: https://www.linkedin.com/in/yagyandatta-murmu/
 [medium]: https://yagyandatta.medium.com/
 [gmail]: mailto:yagyandattamurmu@gmail.com
