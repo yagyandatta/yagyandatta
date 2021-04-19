@@ -93,16 +93,8 @@ I'm a 20-year-old developer, who loves open source. I'm currently pursuing my ba
  
 </td><td valign="top" width="30%"> 
 
-### PYTHON
-<!-- blog starts -->
-
-[cmdBot](https://github.com/yagyandatta/cmdBot)
-
-
-</td><td valign="top" width="50%">
-
 ### BLOG
-<!-- tils starts -->
+<!-- blog starts -->
 [What is Big Data? What Issues Companies Are Facing and how it can be Resolved Using Big Data](https://yagyandattamurmu.medium.com/what-is-big-data-what-issues-companies-are-facing-and-how-it-can-be-resolved-using-big-data-76b3447d85a1)
 
 [Case study on Adobe !!](https://yagyandattamurmu.medium.com/case-study-on-adobe-a4c84ac325dd) 
@@ -111,17 +103,32 @@ I'm a 20-year-old developer, who loves open source. I'm currently pursuing my ba
 
 [A case study on Google Translate with Machine Learning](https://yagyandattamurmu.medium.com/a-case-study-on-google-translate-with-machine-learning-d6e2e0a8a47c)
 
+
+
+</td><td valign="top" width="50%">
+
+### OTHERS
+
+<!-- tils starts -->
+
+[cmdBot](https://github.com/yagyandatta/cmdBot)
+
 </td></tr></table> </b>
 
-## Medium Published articles
 
-[![Yagyandatta's Medium](https://github-readme-medium.vercel.app/?username=yagyandatta)](https://yagyandattamurmu.medium.com/)
-
+<br />
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+
+<a href="https://github.com/amit17133129"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+
 
 
 
