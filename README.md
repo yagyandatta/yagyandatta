@@ -27,7 +27,9 @@
 <!--About Me-->
 
 ### About me
-I'm a 20-year-old developer, who loves open source. I'm currently pursuing my bachelor's degree focused in Information Technology from [ <b> College of Engineering and Technology, Bhubaneswar </b>](https://www.cet.edu.in/).
+I'm [ <b><i> Yagyandatta </i></b>](https://www.linkedin.com/in/yagyandatta-murmu/) , an app  developer, who loves automation. I'm currently pursuing my bachelor's degree focused in <b> Information Technology</b> from [ <b> College of Engineering and Technology, Bhubaneswar </b>](https://www.cet.edu.in/). I'm passionate about areas of [<b>DevOps</b>](https://en.wikipedia.org/wiki/DevOps) like <b>Ansible, Docker, kubernetes, Jenkins and Terraform </b>. You can also find me interested in <b> Cloud( <i> AWS, AZURE, GCP </i>) </b> and how we can use DevOps tool to automate these technologies. I've started exploring the field of <b> Application Devopment(<i> Flutter, Flask </i>) </b> and hope to contribute to that field as well.</br> 
+
+<p align="center">When I'm not developing and coding, you can find me watching Netflix, Youtube or listening to music.. Memes are something that are appreciated very much joy. </p>
 
 <br />
 
