@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h2 align="center">
-        <samp>&gt; Hello $Coders, I am <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+        <samp>&gt; Hello $Coders, I am <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px" height="10px">
                 <b><a target="_blank" href="https://www.linkedin.com/in/yagyandatta-murmu/">Yagyandatta Murmu </a>🧑</b>
         </samp>
 </h2>
