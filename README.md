@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h2 align="center">
-        <samp>&gt; Hello $Coders, I am <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
+        <samp>&gt; Hello Coders, I am <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
                 <b><a target="_blank" href="https://www.linkedin.com/in/yagyandatta-murmu/">Yagyandatta Murmu </a>🧑</b>
         </samp>
 </h2>
@@ -15,18 +15,17 @@
 <!--social media-->
 ### **Let's get connected**
 
-
-<a href="https://discord.gg/VvWzGtWE5k">
-  <img align="left" alt="yagyandatta's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yagyandatta-murmu/">
-  <img align="left" alt="Yagyandatta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="[https://www.linkedin.com/in/yagyandatta-murmu/](https://www.linkedin.com/in/yagyandatta-murmu/)">
+  <img align="left" alt="Yagyandatta's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 <a href="https://yagyandattamurmu.medium.com/">
   <img align="left" alt="Yagyandatta's Medium" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/1609a90daa755d4e9ca3797d09afcfbed245a305/images/svg/medium.svg" />
 </a>
+<a href="https://dev.to/yagyandatta">
+  <img align="left" alt="Yagyandatta's Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+</a>
 <a href="https://github.com/yagyandatta/yagyandatta/">
-  <img align="left" alt="Yagyandatta's Github" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/png/github.png?raw=true" />
+  <img align="left" alt="Yagyandatta's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 
 </br></br>
@@ -35,9 +34,11 @@
 
 ### **About Me**
 
-I'm [***Yagyandatta***](https://www.linkedin.com/in/yagyandatta-murmu/) , an app  developer, who loves automation. I'm currently pursuing my bachelor's degree focused in ***Information Technology from*** [College of Engineering and Technology, Bhubaneswar](https://www.cet.edu.in/). I'm passionate about areas of [<b>DevOps</b>](https://en.wikipedia.org/wiki/DevOps) like <b>Ansible, Docker, kubernetes, Jenkins and Terraform </b>. You can also find me interested in  **Cloud** _(AWS, AZURE, GCP)_ and how we can use DevOps tool to automate these technologies. I've started exploring the field of **Application Devopment** _(Flutter, Flask)_ and hope to contribute to that field as well.
+I'm [***Yagyandatta***](https://www.linkedin.com/in/yagyandatta-murmu/), a **DevOps Engineer** at [**Cozentus**](https://www.cozentus.com/), where I focus on building and maintaining robust infrastructure solutions. My areas of expertise include **Terraform, Jenkins, Docker, AWS, Linux**, and **shell scripting**. I also have skills in **Azure DevOps, Ansible, Prometheus, Grafana**, and **Python**.
 
-When I'm not developing and coding, you can find me watching Netflix, Youtube or listening to music.. Memes are something that are appreciated very much joy.
+I’m constantly expanding my knowledge, currently exploring **Kubernetes, GitHub Actions, Flutter, Java**, and **Go**. Outside of tech, I’m passionate about creating content as a **tech blog writer** and designer, sharing insights and helping others grow in the industry.
+
+When I’m not deep in code or infrastructure, you’ll find me exploring design, crafting content, or enjoying music and playing video games.
 
 <br />
 
@@ -62,7 +63,6 @@ When I'm not developing and coding, you can find me watching Netflix, Youtube or
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yagyandatta&show_icons=true&include_all_commits=true&theme=radical" alt="Yagyandatta's github stats" />
 </a>
 <a href="https://github.com/yagyandatta/github-readme-stats">
-
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yagyandatta&layout=compact&theme=radical" />
 </a>
 
@@ -103,7 +103,7 @@ When I'm not developing and coding, you can find me watching Netflix, Youtube or
 
 [Case study on Adobe !!](https://yagyandattamurmu.medium.com/case-study-on-adobe-a4c84ac325dd)
 
-[Creating Key Pair, Security Group , EBS Volume and Attach them to AWS Instance using AWS-CLI](https://yagyandattamurmu.medium.com/creating-key-pair-security-group-ebs-volume-and-attach-them-to-aws-instance-using-aws-cli-8cd8472672e9)
+[Creating Key Pair, Security Group, EBS Volume and Attach them to AWS Instance using AWS-CLI](https://yagyandattamurmu.medium.com/creating-key-pair-security-group-ebs-volume-and-attach-them-to-aws-instance-using-aws-cli-8cd8472672e9)
 
 [A case study on Google Translate with Machine Learning](https://yagyandattamurmu.medium.com/a-case-study-on-google-translate-with-machine-learning-d6e2e0a8a47c)
 
@@ -126,14 +126,3 @@ When I'm not developing and coding, you can find me watching Netflix, Youtube or
 </div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-<a href="https://github.com/yagyandatta"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
-
-[GitHub]: https://github.com/yagyandatta
-[instagram]: https://instagram.com/unos_0923
-[linkedin]: https://www.linkedin.com/in/yagyandatta-murmu/
-[medium]: https://yagyandatta.medium.com/
-[gmail]: mailto:yagyandattamurmu@gmail.com
-[visualstudio]: https://visualstudio.microsoft.com/
-[git]: https://git-scm.com/
-[terminal]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
