@@ -1,128 +1,75 @@
-<!-- Intro  -->
-<h2 align="center">
-        <samp>&gt; Hello Coders, I am <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" height="25px">
-                <b><a target="_blank" href="https://www.linkedin.com/in/yagyandatta-murmu/">Yagyandatta Murmu </a>🧑</b>
-        </samp>
-</h2>
-</br>
-
-<!--Header-->
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/yagyandatta-murmu/" target="_blank">Yagyandatta</a> 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Architect+(AWS+%26+GCP);Infrastructure+as+Code+Specialist;SRE+%26+Observability+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
-<!--social media-->
-### **Let's get connected**
+<p align="center">
+  <em>"Good infrastructure should be boring. It should work so well that you forget it's there."</em>
+</p>
 
-<a href="[https://www.linkedin.com/in/yagyandatta-murmu/](https://www.linkedin.com/in/yagyandatta-murmu/)">
-  <img align="left" alt="Yagyandatta's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
-</a>
-<a href="https://yagyandattamurmu.medium.com/">
-  <img align="left" alt="Yagyandatta's Medium" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/1609a90daa755d4e9ca3797d09afcfbed245a305/images/svg/medium.svg" />
-</a>
-<a href="https://dev.to/yagyandatta">
-  <img align="left" alt="Yagyandatta's Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
-</a>
-<a href="https://github.com/yagyandatta/yagyandatta/">
-  <img align="left" alt="Yagyandatta's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yagyandatta-murmu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://yagyandattamurmu.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:yagyandattamurmu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-</br></br>
+<br/>
 
-<!--About Me-->
+### 👨‍💻 **About Me**
 
-### **About Me**
+I am a **DevOps Engineer** and **Cloud Architect** focused on solving scale and reliability problems. I don't just write scripts; I design self-healing, modular infrastructure systems.
 
-I'm [***Yagyandatta***](https://www.linkedin.com/in/yagyandatta-murmu/), a **DevOps Engineer** at [**Cozentus**](https://www.cozentus.com/), where I focus on building and maintaining robust infrastructure solutions. My areas of expertise include **Terraform, Jenkins, Docker, AWS, Linux**, and **shell scripting**. I also have skills in **Azure DevOps, Ansible, Prometheus, Grafana**, and **Python**.
+- 🔭 I’m currently architecting **Serverless GCP Environments** and **AWS ECS Fargate** clusters.
+- 🌱 I’m currently deepening my knowledge in **Chaos Engineering (Gremlin)** and **eBPF**.
+- 💬 Ask me about **Terraform Modularization, PromQL, and reducing Cloud Costs.**
+- 📝 I write technical deep-dives on [Medium](https://yagyandattamurmu.medium.com/).
 
-I’m constantly expanding my knowledge, currently exploring **Kubernetes, GitHub Actions, Flutter, Java**, and **Go**. Outside of tech, I’m passionate about creating content as a **tech blog writer** and designer, sharing insights and helping others grow in the industry.
+<br/>
 
-When I’m not deep in code or infrastructure, you’ll find me exploring design, crafting content, or enjoying music and playing video games.
+### 🛠 **Technical Arsenal**
 
-<br />
+| **Category** | **Technologies** |
+|:---:|:---|
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **IaC & Config** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
-<!--technical skill-->
+<br/>
 
-### **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-grey?&style=for-the-badge&logo=python&logoColor=green)
-![Linux](https://img.shields.io/badge/Linux-white?&style=for-the-badge&logo=linux&logoColor=black)
-![webserver](https://img.shields.io/badge/webservers-black?&style=for-the-badge&logo=apache&logoColor=red)
-![docker](https://img.shields.io/badge/docker-green?&style=for-the-badge&logo=docker&logoColor=blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-yellow?&style=for-the-badge&logo=kubernetes&logoColor=blue)
-![ansible](https://img.shields.io/badge/Ansible-white?&style=for-the-badge&logo=Ansible&logoColor=black)
-![jenkins](https://img.shields.io/badge/jenkins-black?&style=for-the-badge&logo=jenkins&logoColor=white)
-![terraform](https://img.shields.io/badge/Terraform-white?&style=for-the-badge&logo=terraform&logoColor=blue)
-![AWS](https://img.shields.io/badge/aws-black?&style=for-the-badge&logo=amazon&logoColor=orange)
-![AZURE](https://img.shields.io/badge/Azure-blue?&style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-## Stats
-
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yagyandatta&show_icons=true&include_all_commits=true&theme=radical" alt="Yagyandatta's github stats" />
-</a>
-<a href="https://github.com/yagyandatta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yagyandatta&layout=compact&theme=radical" />
-</a>
-
-###
-
-<br />
-
-<!--My Learning-->
-
-## Overview
-
-<b>
-<table><tr><td valign="top" width="33%">
-
-### DEVOPS
-<!-- recent_releases starts -->
-
-[Automating-Hadoop-Using-Ansible](https://github.com/yagyandatta/Automating-Hadoop-Using-Ansible)
-
-[docker_with_ansible](https://github.com/yagyandatta/docker_with_ansible)
-
-[WordPress_on_AWS_with_RDS](https://github.com/yagyandatta/WordPress_on_AWS_with_RDS)
-
-</td><td valign="top" width="25%">
-
-### FLUTTER
-<!-- recent_releases starts -->
- [MediaPlayer-App](https://github.com/yagyandatta/MediaPlayer-App)
- [Animation-App](https://github.com/yagyandatta/Animation-App)
- [LinuxApp](https://github.com/yagyandatta/LinuxApp)
- [chatApp](https://github.com/yagyandatta/chatApp)
-
-</td><td valign="top" width="30%">
-
-### BLOG
-<!-- blog starts -->
-[What is Big Data? What Issues Companies Are Facing and how it can be Resolved Using Big Data](https://yagyandattamurmu.medium.com/what-is-big-data-what-issues-companies-are-facing-and-how-it-can-be-resolved-using-big-data-76b3447d85a1)
-
-[Case study on Adobe !!](https://yagyandattamurmu.medium.com/case-study-on-adobe-a4c84ac325dd)
-
-[Creating Key Pair, Security Group, EBS Volume and Attach them to AWS Instance using AWS-CLI](https://yagyandattamurmu.medium.com/creating-key-pair-security-group-ebs-volume-and-attach-them-to-aws-instance-using-aws-cli-8cd8472672e9)
-
-[A case study on Google Translate with Machine Learning](https://yagyandattamurmu.medium.com/a-case-study-on-google-translate-with-machine-learning-d6e2e0a8a47c)
-
-</td><td valign="top" width="50%">
-
-### OTHERS
-
-<!-- tils starts -->
-
-[cmdBot](https://github.com/yagyandatta/cmdBot)
-
-</td></tr></table> </b>
-
-<br />
+### 📊 **GitHub Stats**
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories
-
+  <a href="https://github.com/yagyandatta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagyandatta&show_icons=true&line_height=27&count_private=true&title_color=0077b6&text_color=000000&icon_color=0077b6&bg_color=ffffff&hide_border=true" alt="Yagyandatta's GitHub Stats" />
+  </a>
+  <a href="https://github.com/yagyandatta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagyandatta&hide=html,css,javascript,dart&title_color=0077b6&text_color=000000&icon_color=0077b6&bg_color=ffffff&hide_border=true&layout=compact" alt="Top Langs" />
+  </a>
 </div>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br/>
+
+### ✍️ **Recent Technical Writing**
+
+- [What is Big Data? Issues & Resolutions](https://yagyandattamurmu.medium.com/what-is-big-data-what-issues-companies-are-facing-and-how-it-can-be-resolved-using-big-data-76b3447d85a1)
+- [Case Study: Scaling with Adobe](https://yagyandattamurmu.medium.com/case-study-on-adobe-a4c84ac325dd)
+- [AWS Automation: EC2 & EBS with CLI](https://yagyandattamurmu.medium.com/creating-key-pair-security-group-ebs-volume-and-attach-them-to-aws-instance-using-aws-cli-8cd8472672e9)
+- [Machine Learning Case Study: Google Translate](https://yagyandattamurmu.medium.com/a-case-study-on-google-translate-with-machine-learning-d6e2e0a8a47c)
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"/>
+  <b>Thanks for visiting!</b>
+</div>
