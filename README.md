@@ -48,19 +48,6 @@ I am a **DevOps Engineer** and **Cloud Architect** focused on solving scale and 
 
 <br/>
 
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <a href="https://github.com/yagyandatta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagyandatta&show_icons=true&line_height=27&count_private=true&title_color=0077b6&text_color=000000&icon_color=0077b6&bg_color=ffffff&hide_border=true" alt="Yagyandatta's GitHub Stats" />
-  </a>
-  <a href="https://github.com/yagyandatta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagyandatta&hide=html,css,javascript,dart&title_color=0077b6&text_color=000000&icon_color=0077b6&bg_color=ffffff&hide_border=true&layout=compact" alt="Top Langs" />
-  </a>
-</div>
-
-<br/>
-
 ### ✍️ **Recent Technical Writing**
 
 - [What is Big Data? Issues & Resolutions](https://yagyandattamurmu.medium.com/what-is-big-data-what-issues-companies-are-facing-and-how-it-can-be-resolved-using-big-data-76b3447d85a1)
