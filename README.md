@@ -29,7 +29,7 @@
 I am a **DevOps Engineer** and **Cloud Architect** focused on solving scale and reliability problems. I don't just write scripts; I design self-healing, modular infrastructure systems.
 
 - 🔭 I’m currently architecting **Serverless GCP Environments** and **AWS ECS Fargate** clusters.
-- 🌱 I’m currently deepening my knowledge in **Chaos Engineering (Gremlin)** and **eBPF**.
+- 🌱 I’m currently deepening my knowledge in **Chaos Engineering** and **eBPF**.
 - 💬 Ask me about **Terraform Modularization, PromQL, and reducing Cloud Costs.**
 - 📝 I write technical deep-dives on [Medium](https://yagyandattamurmu.medium.com/).
 
